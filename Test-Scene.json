@@ -1,0 +1,518 @@
+{
+    "settings": {
+        "render": {
+            "fog_density": 0.01,
+            "gamma_correction": 1,
+            "skybox": null,
+            "tonemapping": 0,
+            "lightmapSizeMultiplier": 16,
+            "exposure": 1,
+            "skyboxMip": 0,
+            "skyboxRotation": [
+                0,
+                0,
+                0
+            ],
+            "fog": "none",
+            "lightmapMaxResolution": 2048,
+            "skyboxIntensity": 1,
+            "fog_color": [
+                0,
+                0,
+                0
+            ],
+            "fog_end": 1000,
+            "global_ambient": [
+                0.2,
+                0.2,
+                0.2
+            ],
+            "lightmapMode": 1,
+            "fog_start": 1
+        },
+        "physics": {
+            "gravity": [
+                0,
+                -9.8,
+                0
+            ]
+        }
+    },
+    "entities": {
+        "!uz": {
+            "___1": [
+                42,
+                45,
+                48
+            ],
+            "#": [],
+            "!": "Smoke",
+            " ": true,
+            "'": {
+                "/": {
+                    "8": {
+                        ".": {
+                            ";": true,
+                            ":": true,
+                            "!": "Clip 1",
+                            "9": 25,
+                            ")": 42531477
+                        }
+                    },
+                    "3": false,
+                    "2": 0.3,
+                    "1": 1,
+                    "0": 1,
+                    "7": "Clip 1",
+                    "6": 0,
+                    "5": 0,
+                    "4": false,
+                    "+": [
+                        0,
+                        0,
+                        0
+                    ],
+                    "*": "animated",
+                    ")": null,
+                    "(": [
+                        0
+                    ],
+                    "-": 1,
+                    ",": null,
+                    " ": true
+                }
+            },
+            "&": [],
+            "%": "!uz",
+            "$": "!ut"
+        },
+        "!uy": {
+            "___1": [
+                33,
+                36,
+                39
+            ],
+            "#": [],
+            "!": "Electric",
+            " ": true,
+            "'": {
+                "/": {
+                    "8": {
+                        ".": {
+                            ";": true,
+                            ":": true,
+                            "!": "Clip 1",
+                            "9": 20,
+                            ")": 31437011
+                        }
+                    },
+                    "3": false,
+                    "2": 1,
+                    "1": 1,
+                    "0": 1,
+                    "7": "Clip 1",
+                    "6": 0,
+                    "5": 0,
+                    "4": false,
+                    "+": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "*": "animated",
+                    ")": null,
+                    "(": [
+                        0
+                    ],
+                    "-": 1,
+                    ",": null,
+                    " ": true
+                }
+            },
+            "&": [],
+            "%": "!uy",
+            "$": "!ut"
+        },
+        "!ux": {
+            "___1": [
+                24,
+                27,
+                30
+            ],
+            "#": [],
+            "!": "Electric",
+            " ": true,
+            "'": {
+                "o": {
+                    "q": {
+                        "r": {
+                            "s": {
+                                "-": 0.1,
+                                "#": false,
+                                "w": "",
+                                "v": 0,
+                                "u": false,
+                                "t": "z"
+                            },
+                            " ": true
+                        }
+                    },
+                    " ": true,
+                    "p": [
+                        "rotate"
+                    ]
+                },
+                "/": {
+                    "8": {
+                        ".": {
+                            ";": true,
+                            ":": true,
+                            "!": "Clip 1",
+                            "9": 30,
+                            ")": 31437011
+                        }
+                    },
+                    "3": false,
+                    "2": 1,
+                    "1": 1,
+                    "0": 1,
+                    "7": "Clip 1",
+                    "6": 0,
+                    "5": 0,
+                    "4": false,
+                    "+": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "*": "animated",
+                    ")": null,
+                    "(": [
+                        0
+                    ],
+                    "-": 1,
+                    ",": null,
+                    " ": true
+                }
+            },
+            "&": [],
+            "%": "!ux",
+            "$": "!ut"
+        },
+        "!uw": {
+            "___1": [
+                12,
+                15,
+                3
+            ],
+            "#": [],
+            "!": "Light",
+            " ": true,
+            "'": {
+                "J": {
+                    "`": true,
+                    "=": true,
+                    "<": false,
+                    "+": [
+                        1,
+                        1,
+                        1
+                    ],
+                    "*": "directional",
+                    "(": [
+                        0
+                    ],
+                    "c": [
+                        1,
+                        1
+                    ],
+                    "b": 0,
+                    "a": "rgb",
+                    " ": true,
+                    "d": [
+                        0,
+                        0
+                    ],
+                    "[": 11,
+                    "Z": 1,
+                    "Y": 0.05,
+                    "X": 0.4,
+                    "_": 1,
+                    "^": null,
+                    "]": 0.01,
+                    "S": 45,
+                    "R": 40,
+                    "Q": 8,
+                    "P": 16,
+                    "W": 1024,
+                    "V": 0,
+                    "U": 2,
+                    "T": 0,
+                    "K": false,
+                    "O": 1,
+                    "N": false,
+                    "M": true,
+                    "L": true
+                }
+            },
+            "&": [],
+            "%": "!uw",
+            "$": "!uu"
+        },
+        "!uv": {
+            "___1": [
+                6,
+                9,
+                3
+            ],
+            "#": [],
+            "!": "Camera",
+            " ": true,
+            "'": {
+                ">": {
+                    " ": true,
+                    "?": 45,
+                    "I": [
+                        0,
+                        0,
+                        1,
+                        1
+                    ],
+                    "(": [
+                        0,
+                        1,
+                        2,
+                        3,
+                        4
+                    ],
+                    "H": 0,
+                    "C": true,
+                    "B": true,
+                    "A": [
+                        0.118,
+                        0.118,
+                        0.118,
+                        1
+                    ],
+                    "@": 0,
+                    "G": 0.1,
+                    "F": 1000,
+                    "E": 4,
+                    "D": true
+                }
+            },
+            "&": [],
+            "%": "!uv",
+            "$": "!uu"
+        },
+        "!uu": {
+            "___1": [
+                0,
+                0,
+                3
+            ],
+            "#": [
+                "!uv",
+                "!uw",
+                "!ut"
+            ],
+            "!": "Root",
+            " ": true,
+            "'": {},
+            "&": [],
+            "%": "!uu",
+            "$": null
+        },
+        "!ut": {
+            "___1": [
+                18,
+                0,
+                21
+            ],
+            "#": [
+                "!ux",
+                "!uy",
+                "!uz"
+            ],
+            "!": "Weapon-Dagger",
+            " ": true,
+            "'": {
+                "e": {
+                    "=": true,
+                    "*": "asset",
+                    "<": false,
+                    "k": 1,
+                    "j": false,
+                    "i": true,
+                    "(": [
+                        0
+                    ],
+                    "h": true,
+                    "n": 1,
+                    "m": false,
+                    ",": null,
+                    " ": true,
+                    "g": null,
+                    "f": 36573024,
+                    "l": true
+                }
+            },
+            "&": [],
+            "%": "!ut",
+            "$": "!uu"
+        }
+    },
+    "compressedFormat": {
+        "tripleVecs": [],
+        "fieldFirstCode": 32,
+        "fieldArray": [
+            "enabled",
+            "name",
+            1,
+            "children",
+            "parent",
+            "resource_id",
+            "tags",
+            "components",
+            "layers",
+            "spriteAsset",
+            "type",
+            "color",
+            "batchGroupId",
+            "speed",
+            "0",
+            "sprite",
+            "width",
+            "height",
+            "opacity",
+            "flipX",
+            "flipY",
+            "frame",
+            "drawOrder",
+            "autoPlayClip",
+            "clips",
+            "fps",
+            "loop",
+            "autoPlay",
+            "isStatic",
+            "castShadows",
+            "camera",
+            "fov",
+            "projection",
+            "clearColor",
+            "clearColorBuffer",
+            "clearDepthBuffer",
+            "frustumCulling",
+            "orthoHeight",
+            "farClip",
+            "nearClip",
+            "priority",
+            "rect",
+            "light",
+            "bake",
+            "bakeDir",
+            "affectDynamic",
+            "affectLightmapped",
+            "intensity",
+            "shadowDistance",
+            "range",
+            "innerConeAngle",
+            "outerConeAngle",
+            "falloffMode",
+            "shadowUpdateMode",
+            "shadowType",
+            "shadowResolution",
+            "shadowBias",
+            "normalOffsetBias",
+            "vsmBlurMode",
+            "vsmBlurSize",
+            1,
+            "vsmBias",
+            "cookieAsset",
+            "cookieIntensity",
+            "cookieFalloff",
+            "cookieChannel",
+            "cookieAngle",
+            "cookieScale",
+            "cookieOffset",
+            "model",
+            "asset",
+            "materialAsset",
+            "castShadowsLightmap",
+            "receiveShadows",
+            "lightmapped",
+            "lightmapSizeMultiplier",
+            "castShadowsLightMap",
+            "lightMapped",
+            "lightMapSizeMultiplier",
+            "script",
+            "order",
+            "scripts",
+            "rotate",
+            "attributes",
+            "axis",
+            "waveStyle",
+            "waveWidth",
+            "graphName"
+        ],
+        "fieldCodeBase": 95,
+        "singleVecs": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            1,
+            4,
+            3.5,
+            4,
+            -30,
+            45,
+            0,
+            2,
+            2,
+            -2,
+            45,
+            135,
+            0,
+            -2.5511,
+            0,
+            0,
+            3.55967,
+            3.55967,
+            3.55967,
+            0.60527,
+            0.38012,
+            -0.03501,
+            0,
+            0,
+            -15.42883,
+            0.44941,
+            0.44941,
+            0.44941,
+            0.63295,
+            0.07139,
+            -0.03501,
+            0,
+            0,
+            80.68941,
+            0.42552,
+            0.42552,
+            0.42552,
+            0.60335,
+            0.32472,
+            -0.0542,
+            0,
+            0,
+            40.64253,
+            0.36903,
+            0.5036,
+            0.36903
+        ]
+    },
+    "id": 1091573,
+    "branch_id": "a0e271b6-6f01-47db-a51b-d59d3ae9dc59",
+    "checkpoint_id": "7c43c4d5-bdb9-4acc-b5be-e9660d8f08bb",
+    "name": "Test-Scene",
+    "created": "2021-02-15T11:49:28.221Z"
+}

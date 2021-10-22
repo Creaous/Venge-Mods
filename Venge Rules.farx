@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoResponder LastSave="2021-10-22T16:45:29.4314948+10:30" FiddlerVersion="5.0.20204.45441">
+  <State Enabled="true" AcceptAllConnects="true" Fallthrough="true" UseLatency="false">
+    <ResponseRule Match="regex:https://venge\.io/config\.json" Action="E:\Venge\config.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1083628\.json" Action="E:\Venge\Runes.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1091573\.json" Action="E:\Venge\Test-Scene.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/979967\.json" Action="E:\Venge\Tundra.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/905193\.json" Action="E:\Venge\Menu.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/954486\.json" Action="E:\Venge\Mistle.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/895025\.json" Action="E:\Venge\Prototype.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/925413\.json" Action="E:\Venge\Xibalba.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/913313\.json" Action="E:\Venge\Capture.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/943672\.json" Action="E:\Venge\Result-Mobile.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1094327\.json" Action="E:\Venge\FloatingIslands1.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1124611\.json" Action="E:\Venge\SandstormBlitz.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/913339\.json" Action="E:\Venge\Sierra.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/998879\.json" Action="E:\Venge\Reward.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1024036\.json" Action="E:\Venge\Sierra.Snow.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1060123\.json" Action="E:\Venge\Temple.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/1056036\.json" Action="E:\Venge\Sierra-Backup.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/provider\.js" Action="E:\Venge\provider.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/912228\.json" Action="E:\Venge\Result.json" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/__game-scripts\.js" Action="E:\Venge\__game-scripts.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/__loading__\.js" Action="E:\Venge\__loading__.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/__modules__\.js" Action="E:\Venge\__modules__.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/__settings__\.js" Action="E:\Venge\__settings__.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/__start__\.js" Action="E:\Venge\__start__.js" Enabled="true" />
+    <ResponseRule Match="regex:https://venge\.io/adblock\.js" Action="E:\Venge\adblock.js" Enabled="true" />
+  </State>
+</AutoResponder>
