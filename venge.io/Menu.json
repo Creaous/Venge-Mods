@@ -52200,22 +52200,6 @@
                                     {
                                         "#W": "Temple - Black Coin",
                                         "!=": "Temple"
-                                    },
-                                    {
-                                        "#W": "Prototype - Point",
-                                        "!=": "Prototype"
-                                    },
-                                    {
-                                        "#W": "Floating Islands - Point",
-                                        "!=": "FloatingIslands1"
-                                    },
-                                    {
-                                        "#W": "Sandstorm Blitz - Point",
-                                        "!=": "SandstormBlitz"
-                                    },
-                                    {
-                                        "#W": "Runes - Point",
-                                        "!=": "Runes"
                                     }
                                 ]
                             }
@@ -62306,11 +62290,7 @@
                                     "Xibalba - POINT",
                                     "Mistle - PAYLOAD",
                                     "Tundra - GUNGAME",
-                                    "Temple - BLACKCOIN",
-                                    "Prototype - POINT",
-                                    "Floating Islands - POINT",
-                                    "Sandstorm Blitz - POINT",
-                                    "Runes - POINT"
+                                    "Temple - BLACKCOIN"
                                 ],
                                 "#R": [
                                     1,
@@ -104334,7 +104314,7 @@
                         "&T": {
                             " ": true,
                             "O": {
-                                "!i": "[\"Sierra - POINT\", \"Xibalba\", \"Mistle - PAYLOAD\", \"Tundra - GUNGAME\", \"Temple - BLACKCOIN\"]",
+                                "!i": "[\"Sierra - POINT\", \"Xibalba - POINT\", \"Mistle - PAYLOAD\", \"Tundra - GUNGAME\", \"Temple - BLACKCOIN\"]",
                                 "#=": "Cookie:MapList, RoomManager:Maps",
                                 "!y": "!*:",
                                 "&U": "Notify:Notify@Please select at least one map."
