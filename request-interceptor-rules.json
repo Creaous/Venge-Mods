@@ -1,0 +1,320 @@
+[
+	{
+		"enabled": true,
+		"id": "ddea0e08-246b-466b-aea5-f5c9c8a9311b",
+		"name": "Venge Mods",
+		"filter": {
+			"key": "page-url",
+			"condition": "starts-with",
+			"value": "https://venge.io"
+		},
+		"rules": [
+			{
+				"enabled": true,
+				"id": "9b52ecd0-f6b1-4505-8e16-f76c757346d8",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/config.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/config.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "d2848f60-23f9-4b69-a2c8-ab66e9fd2efd",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/913313.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Capture.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "75482910-cbac-4d21-b9af-ad3cbad71d2e",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1094327.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/FloatingIslands1.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "14963cff-b679-433a-b668-fec95527e819",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/905193.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Menu.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "d1e32c49-c4ac-42d0-a2a7-91f3e181ce03",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/954486.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Mistle.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "4786ee2c-340f-482d-902f-b729f8682bc4",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/895025.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Prototype.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "1183a2d5-8ff4-4882-bd07-44f4a332a8ee",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/912228.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Result.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "d19e5da0-6d00-4e98-b194-bb7e574ee1c6",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/943672.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Result-Mobile.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "e0ddf7cf-f98b-4cc1-ada3-72a689f3658d",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/998879.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Reward.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "614f09d7-4ded-43ea-8bba-a0d09048485a",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1083628.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Runes.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "29d71590-e48b-4d22-8fca-9074b8d95e8b",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1124611.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/SandstormBlitz.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "20651b49-a9b6-456d-8ad0-8e61712e8dff",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/925413.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Sierra.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "fe6bb6dd-f12e-4120-acc3-d45225ce0d34",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1056036.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Sierra-Backup.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "7699a4d3-141e-4357-92d6-e79f681be141",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1024036.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Sierra.Snow.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "f55aff7f-3b15-4198-9439-e77791d0efea",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1060123.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Temple.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "686244f0-c644-4873-a57f-b389ad203ac1",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/1091573.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Test-Scene.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "123a3b36-4f04-4c35-a508-6c20e2a82d9f",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/979967.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Tundra.json"
+						}
+					}
+				]
+			},
+			{
+				"enabled": true,
+				"id": "98c96b75-f5ad-4c3b-9648-f519d2d0cdc6",
+				"criteria": {
+					"key": "url",
+					"condition": "starts-with",
+					"value": "https://venge.io/925413.json"
+				},
+				"actions": [
+					{
+						"type": "redirect-to",
+						"details": {
+							"value": "https://creaous.github.io/Venge-Mods/venge.io/Xibalba.json"
+						}
+					}
+				]
+			}
+		]
+	}
+]
