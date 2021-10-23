@@ -67294,7 +67294,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -71811,7 +71811,7 @@
                                 "#9": 0,
                                 "#:": 100,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -72023,7 +72023,7 @@
                                 "#9": 0,
                                 "#:": 100,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -72360,7 +72360,7 @@
                                 "#9": 0,
                                 "#:": 100,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -72946,7 +72946,7 @@
                                 "#9": 0,
                                 "#:": 200,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -73156,7 +73156,7 @@
                                 "#9": 0,
                                 "#:": 200,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -73366,7 +73366,7 @@
                                 "#9": 40,
                                 "#:": 125,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 60,
                                 "!!": 10,
@@ -73576,7 +73576,7 @@
                                 "#9": 50,
                                 "#:": 100,
                                 "!_": true,
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!#": true,
                                 "#8": 100,
                                 "!!": 10,
@@ -105547,7 +105547,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -110527,7 +110527,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -112973,7 +112973,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -113360,7 +113360,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -113747,7 +113747,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -113950,7 +113950,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -139406,7 +139406,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -140087,7 +140087,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
@@ -140746,7 +140746,7 @@
                         "!s": {
                             " ": true,
                             "O": {
-                                "S": "Menu:Settings",
+                                "S": "View:Settings@AdminSettings",
                                 "!i": false,
                                 "!_": true,
                                 "!#": true,
