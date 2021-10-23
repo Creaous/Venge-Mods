@@ -52200,6 +52200,22 @@
                                     {
                                         "#W": "Temple - Black Coin",
                                         "!=": "Temple"
+                                    },
+                                    {
+                                        "#W": "Prototype - Point",
+                                        "!=": "Prototype"
+                                    },
+                                    {
+                                        "#W": "Floating Islands - Point",
+                                        "!=": "FloatingIslands1"
+                                    },
+                                    {
+                                        "#W": "Sandstorm Blitz - Point",
+                                        "!=": "SandstormBlitz"
+                                    },
+                                    {
+                                        "#W": "Runes - Point",
+                                        "!=": "Runes"
                                     }
                                 ]
                             }
