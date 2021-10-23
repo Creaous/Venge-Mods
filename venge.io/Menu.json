@@ -52200,7 +52200,23 @@
                                     {
                                         "#W": "Temple - Black Coin",
                                         "!=": "Temple"
-                                    }
+                                    },
+                                    {
+                                        "#W": "Prototype - Point",
+                                        "!=": "Prototype"
+                                    },
+                                    {
+                                        "#W": "Floating Islands - Point",
+                                        "!=": "FloatingIslands1"
+                                    },
+                                    {
+                                        "#W": "Sandstorm Blitz - Point",
+                                        "!=": "SandstormBlitz"
+                                    },
+                                    {
+                                        "#W": "Runes - Point",
+                                        "!=": "Runes"
+                                    },
                                 ]
                             }
                         }
@@ -62290,7 +62306,11 @@
                                     "Xibalba - POINT",
                                     "Mistle - PAYLOAD",
                                     "Tundra - GUNGAME",
-                                    "Temple - BLACKCOIN"
+                                    "Temple - BLACKCOIN",
+                                    "Prototype - POINT",
+                                    "Floating Islands - POINT",
+                                    "Sandstorm Blitz - POINT",
+                                    "Runes - POINT",
                                 ],
                                 "#R": [
                                     1,
