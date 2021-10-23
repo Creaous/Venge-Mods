@@ -11,7 +11,7 @@ To make your own venge webserver just fork the repository and enable github page
 5. Open it and it should import.
 ### For request interceptor:
 1. Download and install [Request Interceptor](https://chrome.google.com/webstore/detail/request-interceptor/bfgblailifedppfilabonohepkofbkpm).
-2. Go to [here](chrome-extension://bfgblailifedppfilabonohepkofbkpm/index.html).
+2. Go to the extension page (chrome-extension://bfgblailifedppfilabonohepkofbkpm/index.html)
 3. Click "Import" on the top right.
 4. Select the .json file.
 5. Open it and it should import.
