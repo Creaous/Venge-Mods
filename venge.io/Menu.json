@@ -52200,6 +52200,10 @@
                                     {
                                         "#W": "Temple - Black Coin",
                                         "!=": "Temple"
+                                    },
+                                    {
+                                        "#W": "SandstormBlitz - Point",
+                                        "!=": "SandstormBlitz"
                                     }
                                 ]
                             }
@@ -62290,7 +62294,8 @@
                                     "Xibalba - POINT",
                                     "Mistle - PAYLOAD",
                                     "Tundra - GUNGAME",
-                                    "Temple - BLACKCOIN"
+                                    "Temple - BLACKCOIN",
+                                    "SandstormBlitz - POINT"
                                 ],
                                 "#R": [
                                     1,
@@ -104314,7 +104319,7 @@
                         "&T": {
                             " ": true,
                             "O": {
-                                "!i": "[\"Sierra - POINT\", \"Xibalba - POINT\", \"Mistle - PAYLOAD\", \"Tundra - GUNGAME\", \"Temple - BLACKCOIN\"]",
+                                "!i": "[\"Sierra - POINT\", \"Xibalba - POINT\", \"Mistle - PAYLOAD\", \"Tundra - GUNGAME\", \"Temple - BLACKCOIN\", \"SandstormBlitz - POINT\"]",
                                 "#=": "Cookie:MapList, RoomManager:Maps",
                                 "!y": "!*:",
                                 "&U": "Notify:Notify@Please select at least one map."
